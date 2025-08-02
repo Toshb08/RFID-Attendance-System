@@ -52,7 +52,7 @@ Enter the AWS access credentials when prompted.
 
 Then execute cloud.py to enable real-time cloud logging.
 
-5. Run Attendance Logging Script
+5. Run Attendance Logging Script (refer attached csv file)
 
 Execute attendance.py.
 
